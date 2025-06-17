@@ -94,7 +94,7 @@ Wheel filenames follow a specific pattern:
 <!-- Slide 7: PEP 518 and Beyond -->
 ## Standardization and pyproject.toml
 
-* **PEP 518 and 621 (2016-2020)** (2016): Specified pyproject.toml for build dependencies
+* **PEP 518 and 621 (2016-2020)**: Specified pyproject.toml for build dependencies
   * Decoupled build-time and runtime dependencies
   * Unified approach to package configuration
   * Tool-agnostic specification for project metadata
