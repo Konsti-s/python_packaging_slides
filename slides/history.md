@@ -22,9 +22,8 @@
   * Originally called the "Cheeseshop", now hosts over 450,000 projects
   * Replaced the Vaults of Parnassus, a very popular searchable catalog of Python modules, scripts and resources
 
-* **easy_install**: CLI installation
+* **easy_install**: CLI installation (deprecated)
   * A CLI tool that came with setuptools and integrated tightly with PyPI
-  * Deprecated
 
 * **pip** (2008): Package installer for Python
   * Introduced requirements.txt for dependency listing
@@ -32,7 +31,6 @@
   * Had a greedy resolver until 2020 (OMG)
 
 > Solved: Central repository, hashes, declarative syntax, improved dependency resolution
-> 
 > Still problematic: No virtual environments, No lock files, still "works on my machine" syndrome, Build times took long and were not always reliable
 
 ---
